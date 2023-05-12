@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rim0o8)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **rim0o8/rim0o8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
