@@ -4,6 +4,7 @@
 
 
 - 🔭 I’m currently working on ELYZA .inc(part-time job)
+- 💊 I’m currently working on Virufy (Internship)
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Natural Language Processing
 - 📫 How to reach me: kurashimayuuri@gmail.com
