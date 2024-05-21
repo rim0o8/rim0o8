@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/q5tyt96eeks6xs8" target="blank"><img src="https://img.shields.io/twitter/follow/q5tyt96eeks6xs8?logo=twitter&style=for-the-badge" alt="q5tyt96eeks6xs8" /></a> </p>
 
-- 🔭 I’m currently working on [DeNA]([https://www.pencil.elyza.ai/](https://dena.com/jp/))
+- 🔭 I’m currently working on [DeNA](https://dena.com/jp/)
 
-- 🌱 I’m currently learning **Information Geometry**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [rim0o8.com](rim0o8.com)
 
